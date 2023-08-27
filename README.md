@@ -1,1 +1,1 @@
-This repository for Fix_My_Code_Challenge project
+This repository for Fix code project
